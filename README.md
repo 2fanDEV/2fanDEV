@@ -1,4 +1,10 @@
-# Hi I'm Tufan
+# 2fanDEV
+
+### Hi!😊
+
+### I am Tufan, and soon will be pursuing my master's degree in Computer Science at the Technological University of Hamburg (TUHH). 
+
+### Concurrently I am a working student (Software Development) at adesso SE, primarily working with (Angular/TypeScript) and (Java/Spring Boot).
 <!--
 **2fanDEV/2fanDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
