@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Currently trying to figure everything out in my life
+Working with Spring Boot, Angular/TypeScript
+and trying to get better with Python/C++
