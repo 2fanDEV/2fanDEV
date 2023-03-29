@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### Currently trying to figure everything out in my life
 Working with Spring Boot, Angular/TypeScript
 and trying to get better with Python/C++
+
+[![2fan's GitHub stats](https://github-readme-stats.vercel.app/api?2fanDEV)](https://github.com/2fanDEV/github-readme-stats)
