@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 Working with Spring Boot, Angular/TypeScript
 and trying to get better with Python/C++
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2fanDEV)](https://github.com/anuraghazra/github-readme-stats)
