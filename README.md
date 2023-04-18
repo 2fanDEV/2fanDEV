@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 Mainly working with Angular and Spring Boot. 
 However I make an effort right now to get familiar with Rust and Python.
 
+
+pfp by DiegoCR @ deviantart
