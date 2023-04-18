@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 ### Currently trying to figure everything out in my life
-Working with Spring Boot, Angular/TypeScript
-and trying to get better with Python/C++
+Mainly working with Angular and Spring Boot. 
+However I make an effort right now to get familiar with Rust and Python.
 
