@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 Mainly working with Angular and Spring Boot. 
 However I make an effort right now to get familiar with Rust and Python.
 
+In the past I've been working as a working student at a software consulting company,
+but decided that after my bachelors that I need some time to figure out plans for the future, 
+as while I do love programming, I do not love the corporate world.
+
 
 pfp by DiegoCR @ deviantart
