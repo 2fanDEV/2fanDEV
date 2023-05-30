@@ -19,8 +19,7 @@ Mainly working with Angular and Spring Boot.
 However I make an effort right now to get familiar with Rust and Python.
 
 In the past I've been working as a working student at a software consulting company,
-but decided that after my bachelors that I need some time to figure out plans for the future, 
-as while I do love programming, I also need to figure out if I really want to work 40h a week right now.
+but decided that after my bachelors that I need some time to figure out plans for the future.
 
 
 pfp by DiegoCR @ deviantart
