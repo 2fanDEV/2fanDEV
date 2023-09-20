@@ -12,14 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-### Currently trying to figure everything out in my life
-Mainly working with Angular and Spring Boot. 
-However I make an effort right now to get familiar with Rust and Python.
-
-In the past I've been working as a working student at a software consulting company,
-but decided that after my bachelors that I need some time to figure out plans for the future.
-
-
-pfp by DiegoCR @ deviantart
